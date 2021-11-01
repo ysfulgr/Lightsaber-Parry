@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameManager">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAAAABAAAAAQABAAAAAAAAAAAAAgEA=</HashCode>
+      <FileName>Assets\Scripts\Game\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventManager">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightsaberManager">
+    <Position X="6.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAEAAAAACAAAAAAIAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\LightsaberManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleSpawn">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABAgQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\ParticleSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleBase">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\ParticleBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lightsaber">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAACAECAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\Lightsaber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightsaberBase">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAEACAAAAIAAAAIAAAAAAAAgAAAAABBA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\lightsaberBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SliderManager">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAEAAAAAABEAAAAAAABAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\SliderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoDestruct" Collapsed="true">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAACAI=</HashCode>
+      <FileName>Assets\Scripts\Game\AutoDestruct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionDetec">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\CollisionDetec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAAAAAAIAAAEAAACAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Lightsaber\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionMessage" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAACAAAQQAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\CollisionMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Swing">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAIAAAAAAQAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Swing\Swing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwingBase">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Swing\SwingBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwingAnimation" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIAAAAAAAAAIAAgAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Swing\SwingAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnPoint" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQHAAAAAiAIgAACABABAAAAgAAAQCAAAEAggAwAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\SpawnPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HideMe" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Game\HideMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geom">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\Geom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EventNames" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAACAAAgQAAAgAABAAAAgAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Game\EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
